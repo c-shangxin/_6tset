@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testdao" />
+        <module name="testmodel" />
+        <module name="testservice" />
+        <module name="testweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_6tset" target="1.8" />
+      <module name="testaction" target="1.8" />
+      <module name="testdao" target="1.8" />
+      <module name="testmodel" target="1.8" />
+      <module name="testservice" target="1.8" />
+      <module name="testweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

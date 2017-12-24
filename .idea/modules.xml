@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_6tset.iml" filepath="$PROJECT_DIR$/_6tset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdao/testdao.iml" filepath="$PROJECT_DIR$/testdao/testdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmodel/testmodel.iml" filepath="$PROJECT_DIR$/testmodel/testmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testweb/testweb.iml" filepath="$PROJECT_DIR$/testweb/testweb.iml" />
+    </modules>
+  </component>
+</project>
